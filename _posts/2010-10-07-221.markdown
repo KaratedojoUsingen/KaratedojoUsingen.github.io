@@ -1,0 +1,22 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Tony
+  login: admin
+  email: info@tony-wolf.de
+  url: ''
+author_login: admin
+author_email: info@tony-wolf.de
+wordpress_id: 221
+wordpress_url: http://karatedojo-usingen.de/?p=221
+date: !binary |-
+  MjAxMC0xMC0wNyAwMDowMDo0MiArMDIwMA==
+date_gmt: !binary |-
+  MjAxMC0xMC0wNiAyMjowMDo0MiArMDIwMA==
+categories: []
+tags: []
+comments: []
+---
+<p>Die ersten Katas, die auf einen frischen Karateka zukommen sind die Heian Katas&hellip; Heian Shodan Heian Nidan Heian Sandan Heian Yondan Heian Godan Bei der ersten Kata f&uuml;r den Gelb-Gurt &ndash; Heian Shodan &ndash; liegt der Schwerpunkt auf die Eingew&ouml;hnung von Laufstil und ein paar wenigen Grundtechniken. Der Orange-Gurt stellt mit der Heian Nidan bereits h&ouml;here Anforderungen durch eine erh&ouml;hte Anzahl von enthaltenen Techniken und umfangreicheren Kombinationen. Das Erlernen der Heian Nidan f&auml;llt vielen jedoch deutlich leichter, da das Grundprinzip der Abl&auml;ufe sich gegen&uuml;ber der Heian Shodan nicht &auml;ndert und sich somit auf bereits erlerntes zur&uuml;ckgreifen l&auml;sst. Die Heian Sandan setzt beim Gr&uuml;n-Gurt bereits feiner ausgearbeitete Techniken voraus. In der Heian Yondan sind viele ruhige, aber auch explosive Elemente enthalten, was die Kata sehr anspruchsvoll macht. Durch diese Elemente hebt sich diese Blau-Gurt-Kata (der 1., es gibt 2 im Karate &ndash; auch Violett-Gurt genannt) von ihren Vorg&auml;ngern deutlich ab. Die Heian Godan bildet den Abschluss der Heian Katas. Sie setzt den Stil der Heian Yondan fort und steigert meines Erachtens sogar noch einmal die Anforderungen an den Karateka. Alleinstellungsmerkmal der Heian Godan unter den Heian Katas ist der eingebaute Sprung &ndash; keine einfache Angelegenheit, den &ldquo;schick&rdquo; aussehen zu lassen. :)&hellip;</p>

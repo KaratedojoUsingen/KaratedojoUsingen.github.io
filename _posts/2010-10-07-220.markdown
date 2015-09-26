@@ -1,0 +1,22 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Tony
+  login: admin
+  email: info@tony-wolf.de
+  url: ''
+author_login: admin
+author_email: info@tony-wolf.de
+wordpress_id: 220
+wordpress_url: http://karatedojo-usingen.de/?p=220
+date: !binary |-
+  MjAxMC0xMC0wNyAwMDowMDo0MiArMDIwMA==
+date_gmt: !binary |-
+  MjAxMC0xMC0wNiAyMjowMDo0MiArMDIwMA==
+categories: []
+tags: []
+comments: []
+---
+<p>Die Tekki Katas sind die Braungurt-Katas. Es gibt im Shotokan Karate insgesamt drei Braungurte, entsprechend auch drei Tekki Katas. Sie unterscheiden sich im Ablauf grundlegend von den Heian Katas. Untereinander sind die Tekki Katas jedoch ziemlich &auml;hnlich, wie nachfolgend zu sehen ist. Kata Videos zum &Uuml;ben Tekki Shodan Tekki Nidan Tekki Sandan</p>

@@ -1,0 +1,23 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Neuigkeiten
+author:
+  display_name: Tony
+  login: admin
+  email: info@tony-wolf.de
+  url: ''
+author_login: admin
+author_email: info@tony-wolf.de
+wordpress_id: 240
+wordpress_url: http://karatedojo-usingen.de/?p=240
+date: !binary |-
+  MjAxMC0xMi0xOSAxNzowMjo1NyArMDEwMA==
+date_gmt: !binary |-
+  MjAxMC0xMi0xOSAxNjowMjo1NyArMDEwMA==
+categories: []
+tags: []
+comments: []
+---
+

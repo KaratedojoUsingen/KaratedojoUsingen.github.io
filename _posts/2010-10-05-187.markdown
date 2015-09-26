@@ -1,0 +1,22 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Tony
+  login: admin
+  email: info@tony-wolf.de
+  url: ''
+author_login: admin
+author_email: info@tony-wolf.de
+wordpress_id: 187
+wordpress_url: http://karatedojo-usingen.de/?p=187
+date: !binary |-
+  MjAxMC0xMC0wNSAyMTozOTowMyArMDIwMA==
+date_gmt: !binary |-
+  MjAxMC0xMC0wNSAyMDozOTowMyArMDIwMA==
+categories: []
+tags: []
+comments: []
+---
+<p>Zum Shotokan Karate geh&ouml;ren die Katas ebenso dazu wie auch &Uuml;bungsk&auml;mpfe, um die erlernten Techniken in ge&uuml;bte Abl&auml;ufe zu integrieren. Katas sind fest vorgeschriebene Bewegungsabl&auml;ufe. In den Karate-Pr&uuml;fungen wird von einem Pr&uuml;fling erwartet, dass er seine Pr&uuml;fungs-Kata beherrscht und gelernt hat, was die Kata ausdr&uuml;cken soll. Hinter jeder Technik in einer Kata verbirgt sich eine reale Handlung, eine nur in Gedanken vorhandene, real m&ouml;gliche Situation. Eine Kata ist somit eine kunstvolle Art eine Kampf zu visualisieren ohne dabei zu k&auml;mpfen. Viele sehen in einer Kata auch einen Tanz, da Katas oftmals anmutige und flie&szlig;ende Bewegungen beinhalten. Damit unsere Pr&uuml;flinge die Katas auch zu Hause &uuml;ben k&ouml;nnen, haben wir nachfolgend Katas aus Youtube herausgesucht. Wir haben auch ein Video zur Weltmeisterschaft 2006 bei Youtube gefunden. So kann Kata in Perfektion aussehen. Das Video finden Sie hier. Heian Shodan Heian Nidan Heian Sandan Heian Yondan Heian Godan Tekki Shodan Tekki Nidan Tekki Sandan</p>

@@ -1,0 +1,22 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Tony
+  login: admin
+  email: info@tony-wolf.de
+  url: ''
+author_login: admin
+author_email: info@tony-wolf.de
+wordpress_id: 188
+wordpress_url: http://karatedojo-usingen.de/?p=188
+date: !binary |-
+  MjAxMC0xMC0wNSAyMTozOTowMyArMDIwMA==
+date_gmt: !binary |-
+  MjAxMC0xMC0wNSAyMDozOTowMyArMDIwMA==
+categories: []
+tags: []
+comments: []
+---
+<p>Grunds&auml;tzlich findet das Karatetraining zweimal pro Woche in der Usinger Stadthalle statt. Wir trainieren montags von 19.30 &ndash; 21.00 Uhr und donnerstags von 19.00 &ndash; 20.30 Uhr. Somit ist es auch f&uuml;r Berufst&auml;tige kein Problem, am Karatetraining teilzunehmen. Wann ist kein Training? Wir w&uuml;rden uns sehr freuen, wenn sie einmal an unserem Training teilnehmen w&uuml;rden. Auch freuen wir uns immer &uuml;ber Karateka, die bei uns ein Gasttraining machen wollen! Das Training wird von Holger Reinhardt, Weltmeister in Point-Karate (Karate mit Sch&uuml;tzern), gef&uuml;hrt. Das Training wird locker und spa&szlig;ig gestaltet &ndash; es passiert oft, dass wir zusammen einen Videoabend planen oder mal Schwimmen gehen! Allgemeine Informationen Holger Reinhardt Holger trainiert uns donnerstags und hat eine Vorliebe f&uuml;r das Kumite. Hier hat er selbst auch im Wettkampf schon sch&ouml;ne Erfolge erzielt: Etwa zehn Mal wurde er Deutscher Meister im Point-Karate, 2001 wurde er Europameister in Schottland und 2002 sogar Weltmeister der WKO Weltmeisterschaften in Birmingham. Frank H&ouml;lz Er ist wie Holger Inhaber des 2. Dan und fast &ldquo;ein Mann der ersten Stunde&rdquo;, also schon seit seiner Jugend Mitglied in unserem Verein. Er trainiert uns montags und sein Schwerpunkt ist neben der Grundschule die Kata. Hier zeigt er immer wieder viel Geduld mit&hellip;</p>

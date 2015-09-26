@@ -1,0 +1,24 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Informationen
+author:
+  display_name: Tony
+  login: admin
+  email: info@tony-wolf.de
+  url: ''
+author_login: admin
+author_email: info@tony-wolf.de
+excerpt: Wissenswerten zu Karate und unserem Verein
+wordpress_id: 219
+wordpress_url: http://karatedojo-usingen.de/?p=219
+date: !binary |-
+  MjAxMC0xMC0wNyAwMDowMDo0MiArMDIwMA==
+date_gmt: !binary |-
+  MjAxMC0xMC0wNiAyMjowMDo0MiArMDIwMA==
+categories: []
+tags: []
+comments: []
+---
+<p>Da unser Karate Dojo in Usingen nicht immer auf hat, haben wir nachfolgend einige n&uuml;tzliche Informationen zusammengesucht und verfasst.</p>

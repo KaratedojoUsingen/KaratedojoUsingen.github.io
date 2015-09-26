@@ -1,0 +1,22 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Tony
+  login: admin
+  email: info@tony-wolf.de
+  url: ''
+author_login: admin
+author_email: info@tony-wolf.de
+wordpress_id: 228
+wordpress_url: http://karatedojo-usingen.de/?p=228
+date: !binary |-
+  MjAxMC0xMC0wNyAyMzowNjoxNCArMDIwMA==
+date_gmt: !binary |-
+  MjAxMC0xMC0wNyAyMTowNjoxNCArMDIwMA==
+categories: []
+tags: []
+comments: []
+---
+<p>Schnuppertrainig Sie wissen noch nicht, ob Shotokan Karate etwas f&uuml;r Sie ist oder wollen unseren Verein mit seinen Mitgliedern kennenlernen? Na dann kommen Sie am Besten zum Schnuppertraining! Gerne d&uuml;rfen Sie bei uns mitmachen und uns kennenlernen. Das Schnuppertraining ist nat&uuml;rlich kostenfrei und findet zu unseren regul&auml;ren Trainingszeiten statt. Sie k&ouml;nnen auch als Besucher bei unseren Trainingseinheiten zuschauen. Wir bitten an dieser Stelle jedoch darum sich dabei ruhig zu verhalten. &Uuml;ber eine kurze Ank&uuml;ndigung per Mail an training@karatedojo-usingen.de w&uuml;rden wir uns freuen. Gasttraining Was ein richtiger Karateverein ist, bietet auch Karateka aus anderen Vereinen an mit zu trainieren. Wenn Sie zur Zeit in der Umgebung von Usingen &#47; Bad Homburg sind, w&uuml;rden wir uns sehr freuen Sie bei uns auf ein Gasttraining einladen zu d&uuml;rfen. Bringen Sie einfach Spa&szlig; am Sport mit und schon passen wir zusammen! Am Besten w&auml;re es, wenn Sie uns vorher kurz Bescheid geben, damit die Trainer informiert sind. Informieren k&ouml;nnen Sie uns ganz einfach per Mail an training@karatedojo-usingen.de</p>

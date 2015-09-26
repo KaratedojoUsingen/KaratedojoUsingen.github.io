@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Kyu-Pr&uuml;fungen 2009
+author:
+  display_name: Tony
+  login: admin
+  email: info@tony-wolf.de
+  url: ''
+author_login: admin
+author_email: info@tony-wolf.de
+wordpress_id: 114
+wordpress_url: http://karatedojo-usingen.de/?p=114
+date: !binary |-
+  MjAwOS0wOC0wMyAwMDo0MTowNSArMDIwMA==
+date_gmt: !binary |-
+  MjAwOS0wOC0wMiAyMzo0MTowNSArMDIwMA==
+categories:
+- Uncategorized
+tags:
+- Bilder
+comments: []
+---
+<p>Happy year! Alle haben verdient bestanden!!!</p>
+<p>[gallery link="file" orderby="rand"]</p>

@@ -1,0 +1,23 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Bilder
+author:
+  display_name: Tony
+  login: admin
+  email: info@tony-wolf.de
+  url: ''
+author_login: admin
+author_email: info@tony-wolf.de
+wordpress_id: 190
+wordpress_url: http://karatedojo-usingen.de/?p=190
+date: !binary |-
+  MjAxMC0xMC0wNSAyMTo0MDozMiArMDIwMA==
+date_gmt: !binary |-
+  MjAxMC0xMC0wNSAyMDo0MDozMiArMDIwMA==
+categories: []
+tags: []
+comments: []
+---
+

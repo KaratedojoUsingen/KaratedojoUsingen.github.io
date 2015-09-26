@@ -1,0 +1,22 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Tony
+  login: admin
+  email: info@tony-wolf.de
+  url: ''
+author_login: admin
+author_email: info@tony-wolf.de
+wordpress_id: 186
+wordpress_url: http://karatedojo-usingen.de/?p=186
+date: !binary |-
+  MjAxMC0xMC0wNSAyMTozOTowMyArMDIwMA==
+date_gmt: !binary |-
+  MjAxMC0xMC0wNSAyMDozOTowMyArMDIwMA==
+categories: []
+tags: []
+comments: []
+---
+<p>Unser Grundpreis pro Monat bel&auml;uft sich auf 15 Euro &#47; Monat F&uuml;r Familien bieten wir selbstverst&auml;ndlich Erm&auml;&szlig;igungen an.</p>

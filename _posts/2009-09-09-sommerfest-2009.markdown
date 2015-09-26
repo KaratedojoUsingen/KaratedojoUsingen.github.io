@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Sommerfest 2009 in Kr&ouml;ffelbach
+author:
+  display_name: Tony
+  login: admin
+  email: info@tony-wolf.de
+  url: ''
+author_login: admin
+author_email: info@tony-wolf.de
+wordpress_id: 106
+wordpress_url: http://karatedojo-usingen.de/?p=106
+date: !binary |-
+  MjAwOS0wOS0wOSAwMDozMTozNCArMDIwMA==
+date_gmt: !binary |-
+  MjAwOS0wOS0wOCAyMzozMTozNCArMDIwMA==
+categories:
+- My Albums
+tags:
+- Bilder
+comments: []
+---
+<p>Dieses Jahr haben wir ein wirklich sch&ouml;nes Sommerfest gehabt. Es wurde gegrillt, gefeiert, sich unterhalten und nat&uuml;rlich darf in einem Karate-Verein auch ein obligatorisches Training nicht fehlen. Damit alle richtig sch&ouml;n Hunger haben, um das gesponserte Essen und Durst auf die freien Getr&auml;nke bekommen, sind wir zuvor laufen gewesen.<br />
+Beim Laufen wurden immer wieder Pausen eingelegt um mit ein paar Karate&uuml;bungen auf dem Feld oder im Wald nicht abzuk&uuml;hlen.<br />
+Darauf folgte eine &Uuml;bernachtung im Freien, mit Zelt und Lagerfeuer. Am n&auml;chsten Morgen ging es dann nach einem ausgiebigen Fr&uuml;hst&uuml;ck ab ins Schwimmbad.<br />
+Es wurde einheitlich beschlossen, das Fest war ein voller Erfolg! An dieser Stelle m&ouml;chten wir uns noch einmal bei den Organisatoren bedanken!</p>
+<p>[gallery link="file" orderby="rand"]</p>
